@@ -1,0 +1,6 @@
+com\qldl\configs\Dispatcher.class
+com\qldl\configs\HibernateConfig.class
+com\qldl\pojo\User.class
+com\qldl\configs\WebAppContConf.class
+com\qldl\controllers\run.class
+com\qldl\configs\TilesConfig.class
